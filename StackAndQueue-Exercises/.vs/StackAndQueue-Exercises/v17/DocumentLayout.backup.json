@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA446B7F-D04E-400E-BBDF-02DF82FAF474}|04.FastFood\\04.FastFood.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA446B7F-D04E-400E-BBDF-02DF82FAF474}|04.FastFood\\04.FastFood.csproj|solutionrelative:04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{278C6CA9-4659-4B93-B461-A6FCE8DD5C53}|03.MaximumAndMinimumElements\\03.MaximumAndMinimumElements.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\03.maximumandminimumelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{278C6CA9-4659-4B93-B461-A6FCE8DD5C53}|03.MaximumAndMinimumElements\\03.MaximumAndMinimumElements.csproj|solutionrelative:03.maximumandminimumelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA446B7F-D04E-400E-BBDF-02DF82FAF474}|04.FastFood\\04.FastFood.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA446B7F-D04E-400E-BBDF-02DF82FAF474}|04.FastFood\\04.FastFood.csproj|solutionrelative:04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B655154-DCD1-4ECD-976E-CF1647695378}|02.BasicQueueOperation\\02.BasicQueueOperation.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\02.basicqueueoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B655154-DCD1-4ECD-976E-CF1647695378}|02.BasicQueueOperation\\02.BasicQueueOperation.csproj|solutionrelative:02.basicqueueoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17A140B-9765-42BD-B9FF-026706B7313C}|StackAndQueue-Exercises\\StackAndQueue-Exercises.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\stackandqueue-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17A140B-9765-42BD-B9FF-026706B7313C}|StackAndQueue-Exercises\\StackAndQueue-Exercises.csproj|solutionrelative:stackandqueue-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F17A140B-9765-42BD-B9FF-026706B7313C}|StackAndQueue-Exercises\\01.BasicStackOperation.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\stackandqueue-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A140B-9765-42BD-B9FF-026706B7313C}|StackAndQueue-Exercises\\01.BasicStackOperation.csproj|solutionrelative:stackandqueue-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\04.FastFood\\Program.cs",
               "RelativeDocumentMoniker": "04.FastFood\\Program.cs",
-              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\04.FastFood\\Program.cs*",
-              "RelativeToolTip": "04.FastFood\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBwAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\04.FastFood\\Program.cs",
+              "RelativeToolTip": "04.FastFood\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wBIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T08:31:19.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\03.MaximumAndMinimumElements\\Program.cs",
               "RelativeDocumentMoniker": "03.MaximumAndMinimumElements\\Program.cs",
-              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\03.MaximumAndMinimumElements\\Program.cs",
-              "RelativeToolTip": "03.MaximumAndMinimumElements\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\03.MaximumAndMinimumElements\\Program.cs*",
+              "RelativeToolTip": "03.MaximumAndMinimumElements\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T07:50:15.683Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "02.BasicQueueOperation\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T07:41:05.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T07:41:05.305Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "StackAndQueue-Exercises\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T07:21:59.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T07:21:59.713Z"
             }
           ]
         }

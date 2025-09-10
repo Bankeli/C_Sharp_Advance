@@ -19,8 +19,6 @@ namespace _04.FastFood
                     int order = ordersQueue.Dequeue();
 
                     foodQuantity -= order;
-                    if (order > biggestOrder)
-                        biggestOrder = order;
 
                 }
                 else 

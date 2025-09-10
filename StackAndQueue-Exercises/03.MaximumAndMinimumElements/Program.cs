@@ -46,15 +46,8 @@ namespace _03.MaximumAndMinimumElements
         {
             if (stack.Count > 0)
             {
-                int smallestNum = int.MaxValue;
+                int smallestNum = stack.Min();
 
-                foreach (int currNum in stack)
-                {
-                    if (currNum < smallestNum)
-                    {
-                        smallestNum = currNum;
-                    }
-                }
                 Console.WriteLine(smallestNum);
             }
         }
@@ -63,12 +56,8 @@ namespace _03.MaximumAndMinimumElements
         {
             if (stack.Count > 0)
             {
-                int biggestOne = 0;
-               foreach (int currNum in stack)
-                {
-                    if (currNum > biggestOne)
-                        biggestOne = currNum;
-                }
+                int biggestOne = stack.Max();
+               
                 Console.WriteLine(biggestOne);
             }
         }
