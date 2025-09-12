@@ -27,16 +27,8 @@
             }
             else
             {
-                    int smallestNum = numbers.Pop();
-                for (int i = 0; i < numbers.Count; i++)
-                {
-                    int currNum = numbers.Pop();
-                    if (smallestNum > currNum)
-                    {
-                        smallestNum = currNum;
-                    }
-                }
-                Console.WriteLine(smallestNum);
+                  
+                Console.WriteLine(numbers.Min());
             }
         }
     }
