@@ -1,17 +1,25 @@
-﻿namespace CarManufacturer
+﻿using System;
+namespace CarManufacturer
 {
     public class StartUp
     {
         static void Main(string[] args)
         {
-           Car car = new Car
-           {
-               Make = "Audi",
-               Model = "A3",
-               Year = 2005
-           };
+            var make = Console.ReadLine();
+            var model = Console.ReadLine();
+            var year = int.Parse(Console.ReadLine());
+            var fuelQuantity = double.Parse(Console.ReadLine());
+            var fuelConsumption = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"My car is : {car.Make} {car.Model} {car.Year} year.");
+            var firstCar = new Car();
+            var secondCar = new Car(make,model,year);
+            var thirdCar = new Car(make,model,year,fuelQuantity,fuelConsumption);
+
+            Console.WriteLine(firstCar);
+            Console.WriteLine(secondCar);
+            Console.WriteLine(thirdCar);
+
+
         }
     }
 }
