@@ -25,11 +25,21 @@ namespace CarManufacturer
             this.FuelQuantity = fuelQuantity;
             this.FuelConsumption = fuelConsumption;
         }
+
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tires)
+            :this(make,model,year,fuelQuantity,fuelConsumption)
+        {
+          this.Engine = engine;  
+            this.Tire = tires;
+        }
         public string Model { get; set; }
         public string Make { get; set; }
         public int Year { get; set; }
         public double FuelQuantity { get; set; }
         public double FuelConsumption { get; set; }
+        public Engine Engine { get; set; }
+        public Tire[] Tire { get; set; }
+
 
 
         public void Drive(double distance)

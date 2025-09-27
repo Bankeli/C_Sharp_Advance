@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj": {}
+    "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj": {
+    "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj",
+        "projectUniqueName": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj",
         "projectName": "01.Car",
-        "projectPath": "D:\\Projects\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj",
+        "projectPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\01.Car.csproj",
         "packagesPath": "C:\\Users\\yukib\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\obj\\",
+        "outputPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
