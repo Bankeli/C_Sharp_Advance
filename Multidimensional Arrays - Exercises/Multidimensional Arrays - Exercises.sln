@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DiagonalDifference", "01.DiagonalDifference\01.DiagonalDifference.csproj", "{D639F73E-5331-4338-95C8-C55B7FD141B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SquareInMatrix", "02.SquareInMatrix\02.SquareInMatrix.csproj", "{F6FF4B1E-575F-42D4-9AB6-01381AA00B3F}"
@@ -9,6 +12,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MatrixShuffling", "04.MatrixShuffling\04.MatrixShuffling.csproj", "{262C4E36-64A8-4D5B-9BE5-88F9190D1520}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SnakeMoves", "05.SnakeMoves\05.SnakeMoves.csproj", "{81083E09-4E20-468F-B144-64408445F60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Knights", "07.Knights\07.Knights.csproj", "{F143C196-4BD8-4F9C-AEF9-D7921D8BEC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.JaggedArrayManipulator", "06.JaggedArrayManipulator\06.JaggedArrayManipulator.csproj", "{7509101E-8E1B-4A9B-9C39-BB086637A4C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.RadioactiveMutantVampireBunnies", "10.RadioactiveMutantVampireBunnies\10.RadioactiveMutantVampireBunnies.csproj", "{53122711-16FB-4253-B747-03409EFE0D7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +45,20 @@ Global
 		{81083E09-4E20-468F-B144-64408445F60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81083E09-4E20-468F-B144-64408445F60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81083E09-4E20-468F-B144-64408445F60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F143C196-4BD8-4F9C-AEF9-D7921D8BEC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F143C196-4BD8-4F9C-AEF9-D7921D8BEC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F143C196-4BD8-4F9C-AEF9-D7921D8BEC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F143C196-4BD8-4F9C-AEF9-D7921D8BEC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7509101E-8E1B-4A9B-9C39-BB086637A4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7509101E-8E1B-4A9B-9C39-BB086637A4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7509101E-8E1B-4A9B-9C39-BB086637A4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7509101E-8E1B-4A9B-9C39-BB086637A4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53122711-16FB-4253-B747-03409EFE0D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53122711-16FB-4253-B747-03409EFE0D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53122711-16FB-4253-B747-03409EFE0D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53122711-16FB-4253-B747-03409EFE0D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
