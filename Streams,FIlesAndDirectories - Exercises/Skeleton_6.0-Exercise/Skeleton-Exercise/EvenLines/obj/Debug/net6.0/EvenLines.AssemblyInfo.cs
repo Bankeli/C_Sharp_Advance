@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvenLines")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abc57648acbe96c94bad9a85048c8d367c07d66e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8ff0d9af45ef3fc3ccf2fe09d0a5cb7744c82f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvenLines")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvenLines")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
